@@ -1,0 +1,3 @@
+package: github.com/daichirata/fluent-sniffer
+import:
+  - package: github.com/google/gopacket
