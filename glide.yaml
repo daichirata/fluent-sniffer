@@ -1,3 +1,4 @@
 package: github.com/daichirata/fluent-sniffer
 import:
   - package: github.com/google/gopacket
+  - package: github.com/ugorji/go/codec
